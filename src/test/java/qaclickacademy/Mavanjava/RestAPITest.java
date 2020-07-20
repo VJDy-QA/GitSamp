@@ -19,4 +19,11 @@ public class RestAPITest {
 		System.out.println("deleteTweet4");
 		System.out.println("deleteTweet5");
 	}
+	
+	@Test
+	public void postsJira2() {
+		System.out.println("postsJira2");
+		System.out.println("postJira23");
+		System.out.println("postJira33");
+	}
 }
