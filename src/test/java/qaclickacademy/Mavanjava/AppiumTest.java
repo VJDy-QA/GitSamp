@@ -22,4 +22,11 @@ public class AppiumTest {
 		System.out.println("nativeAppAndroid2");
 		System.out.println("nativeAppAndroid2");
 	}
+	
+	@Test
+	public void nativeAppAndroid2s() {
+		System.out.println("nativeAppAnsdfdroid2");
+		System.out.println("nativeAppAndsdroid2");
+		System.out.println("nativeAppAnsfdroid2");
+	}
 }
