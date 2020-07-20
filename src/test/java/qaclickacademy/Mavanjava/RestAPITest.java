@@ -14,5 +14,9 @@ public class RestAPITest {
 	@Test
 	public void deleteTweet() {
 		System.out.println("deleteTweet");
+		System.out.println("deleteTweet2");
+		System.out.println("deleteTweet3");
+		System.out.println("deleteTweet4");
+		System.out.println("deleteTweet5");
 	}
 }
